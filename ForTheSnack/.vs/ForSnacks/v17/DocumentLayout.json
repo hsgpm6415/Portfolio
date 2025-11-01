@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kidap\\ForSnacks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|c:\\users\\kidap\\forsnacks\\assets\\2.scripts\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|C:\\Users\\kidap\\ForSnacks\\assets\\2.scripts\\util\\popuptriggerobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\util\\popuptriggerobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|C:\\Users\\kidap\\ForSnacks\\assets\\2.scripts\\slopeslider2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\slopeslider2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|C:\\Users\\kidap\\ForSnacks\\assets\\2.scripts\\manager\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E7D1D47-69A7-A107-0658-BECBD4428DEA}|Assembly-CSharp.csproj|solutionrelative:assets\\2.scripts\\manager\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\CatController.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\CatController.cs",
+              "ToolTip": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\CatController.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\CatController.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv6sAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T09:31:37.506Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PopupTriggerObj.cs",
+              "DocumentMoniker": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\Util\\PopupTriggerObj.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\Util\\PopupTriggerObj.cs",
+              "ToolTip": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\Util\\PopupTriggerObj.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\Util\\PopupTriggerObj.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:21:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SlopeSlider2D.cs",
+              "DocumentMoniker": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\SlopeSlider2D.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\SlopeSlider2D.cs",
+              "ToolTip": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\SlopeSlider2D.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\SlopeSlider2D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T02:58:58.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\Manager\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Scripts\\Manager\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\kidap\\ForSnacks\\Assets\\2.Scripts\\Manager\\ThemeManager.cs",
+              "RelativeToolTip": "Assets\\2.Scripts\\Manager\\ThemeManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswDcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:27:45.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
