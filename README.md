@@ -1,4 +1,4 @@
-# HwanSsg | Unity Game Developer Portfolio
+# 이환석 | Unity Game Developer Portfolio
 
 Unity와 C#을 사용해 게임 플레이, 절차적 생성, 네트워크 및 데이터 저장 시스템을 구현한 프로젝트를 소개합니다.
 
@@ -13,7 +13,7 @@ Unity와 C#을 사용해 게임 플레이, 절차적 생성, 네트워크 및 �
 - 지역 기반 테마 전환
 - JSON 기반 진행 상황과 설정 저장
 
-[GitHub 저장소](https://github.com/hsgpm6415/ForTheSnack)
+[코드 저장소](https://github.com/hsgpm6415/ForTheSnack-Code)
 
 ---
 
@@ -27,7 +27,7 @@ Unity와 C#을 사용해 게임 플레이, 절차적 생성, 네트워크 및 �
 - 무작위 강화 선택
 - 오브젝트 풀링
 
-[GitHub 저장소](https://github.com/hsgpm6415/Imitation-VampireSurvivor)
+[코드 저장소](https://github.com/hsgpm6415/Imitation-VampireSurvivor-Code)
 
 ---
 
@@ -41,7 +41,7 @@ Unity와 C#을 사용해 게임 플레이, 절차적 생성, 네트워크 및 �
 - Photon 기반 멀티플레이
 - Firebase 기반 데이터 저장
 
-[GitHub 저장소](https://github.com/hsgpm6415/Imitation_Minecraft)
+[코드 저장소](https://github.com/hsgpm6415/Imitation_Minecraft-Code)
 
 ---
 
@@ -56,7 +56,7 @@ Unity 절차적 지형 생성 시스템을 학습하기 위해 제작한 프로�
 - 멀티스레드 데이터 처리
 - Unity 에디터 미리보기
 
-[GitHub 저장소](https://github.com/hsgpm6415/Proc-Gen)
+[코드 저장소](https://github.com/hsgpm6415/Proc-Gen-Code)
 
 ## Skills
 
@@ -74,7 +74,7 @@ Unity 절차적 지형 생성 시스템을 학습하기 위해 제작한 프로�
 
 ## Repository Notes
 
-라이선스가 있는 외부 에셋, 대용량 음원, 외부 SDK 및 개인 서비스 설정은 공개 저장소에서 제외했습니다. 각 프로젝트의 README에서 필요한 외부 패키지를 확인할 수 있습니다.
+각 코드 저장소에는 제가 작성한 C# 스크립트만 포함되어 있습니다. 라이선스가 있는 외부 에셋, 대용량 음원, 외부 SDK, Unity 생성 파일 및 개인 서비스 설정은 제외했으며, 완전한 Unity 프로젝트는 비공개 저장소에서 관리합니다.
 
 ## Contact
 
