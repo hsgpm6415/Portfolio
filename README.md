@@ -17,6 +17,22 @@ Unity와 C#을 사용해 게임 플레이, 절차적 생성, 네트워크 및 �
 
 ---
 
+### Slot Heroes
+
+Unity Gaming Services를 활용해 사용자 데이터와 동기·비동기 PvP 네트워크 시스템을 구현한 프로젝트입니다.
+
+- UGS 인증, Cloud Code 및 Cloud Save 연동
+- Netcode for GameObjects와 Relay 기반 실시간 PvP
+- 비동기 PvP 상대 검색, 배치, 전투 기록 및 결과 처리
+- 보스, 재화, 몬스터, 슬롯, 유닛 데이터 동기화
+- DTO, 서비스, 컨트롤러 및 런타임 캐시 구조
+
+[코드 저장소](https://github.com/hsgpm6415/Slot-Heroes-Code)
+
+---
+
+
+
 ### Imitation Vampire Survivor
 
 2D 생존 액션 게임의 핵심 시스템을 학습하기 위해 제작한 프로젝트입니다.
