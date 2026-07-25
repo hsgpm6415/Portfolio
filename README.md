@@ -84,7 +84,6 @@ Unity 절차적 지형 생성 시스템을 학습하기 위해 제작한 프로�
 - Object Pooling
 - ScriptableObject
 - JSON Data Management
-- Photon PUN
 - Firebase
 - Git / GitHub
 
