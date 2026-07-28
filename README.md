@@ -49,12 +49,11 @@ Unity Gaming Services를 활용해 사용자 데이터와 동기·비동기 PvP 
 
 ### Imitation Minecraft
 
-절차적 지형과 멀티플레이를 결합한 3D 샌드박스 프로젝트입니다.
+절차적 맵 생성을 활용한 3D 샌드박스 프로젝트입니다.
 
 - 절차적 청크 및 지형 생성
 - 블록 설치와 파괴
 - 인벤토리와 제작 시스템
-- Photon 기반 멀티플레이
 - Firebase 기반 데이터 저장
 
 [코드 저장소](https://github.com/hsgpm6415/Imitation_Minecraft-Code)
